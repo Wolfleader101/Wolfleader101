@@ -18,14 +18,14 @@ Videos and Images of various Projects
 
 ## Github Stats
 
-Here are some random GitHub stats regarding my repos.
+Here are some GitHub stats regarding my repos.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wolfleader101&show_icons=true&count_private=true&theme=bear" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolfleader101&langs_count=10&theme=bear&layout=compact" />
-</a>
+</a> -->
 
 <!--
 **Wolfleader101/Wolfleader101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
