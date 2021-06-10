@@ -3,7 +3,7 @@
 I am a young Software Developer and Uni student from Straya. 🦘🐨
 I have a passion for Reverse Engineering, Games Development, Graphics Programming and Web Development.
 
-- 🔭 I’m currently working on a variety of side projects, most of which are gaming related.
+- 🔭 I’m currently working on a variety of side projects, most of which are gaming related. (Scroll down to my pinned Repo's to see my latest works!)
 - 🌱 I’m currently learning C++
 - 🌟 My Current Favourite Language: C#
 - ⭐My Top 5 Languages: C#, C++, TS, JS, C
