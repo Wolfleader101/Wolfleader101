@@ -1,12 +1,12 @@
 ### Hi there, I'm Wolfleader 👋
 
 I am a young Software Developer and Uni student from Straya. 🦘🐨
-I have a passion for Reverse Engineering, Games Development, Graphics Programming and Web Development.
+I have a passion for Electrical Engineering, Games Development, Reverse Engineering, Graphics Programming and Web Development.
 
-- 🔭 I’m currently working on a variety of side projects, most of which are gaming related. (Scroll down to my pinned Repo's to see my latest works!)
-- 🌱 I’m currently learning C++
+- 🔭 I’m currently working on my startup [Pot Pirate](https://www.potpirate.com.au/), and a variety of side projects, most of which are gaming related. (Scroll down to my pinned Repo's to see my latest works!)
+- 🌱 I’m currently learning Rust
 - 🌟 My Current Favourite Language: C#
-- ⭐My Top 5 Languages: C#, C++, TS, JS, C
+- ⭐My Top 5 Languages: Rust, C#, TS, C++, C
 
 ## Portfolio
 
