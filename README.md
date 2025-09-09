@@ -7,6 +7,7 @@ I am passionate about Game Development, Engine Development, Graphics Programming
 
 ## Latest Talk
 
+### Crafting a Game Engine Surprisingly Simple!
 [![DDDPerth 2024 Talk](https://img.youtube.com/vi/d0Ps07uLVeY/0.jpg)](https://www.youtube.com/watch?v=d0Ps07uLVeY)
 
 ## Github Stats
