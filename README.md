@@ -5,6 +5,10 @@ I am passionate about Game Development, Engine Development, Graphics Programming
 
 - 🔭 I’m currently working on my startup [Pot Pirate](https://www.potpirate.com.au/), my game engine [Fenrir Engine](https://github.com/Wolfleader101/FenrirEngine) and various other side projects, most of which are gaming-related.
 
+## Latest Talk
+
+[![DDDPerth 2024 Talk](https://img.youtube.com/vi/d0Ps07uLVeY/0.jpg)](https://www.youtube.com/watch?v=d0Ps07uLVeY)
+
 ## Github Stats
 
 Here are some GitHub stats regarding my repos.
